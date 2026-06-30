@@ -20,3 +20,8 @@ __pycache__/
 
 # Duże zbiory danych
 otomoto_offers_eng_23-04-2023.csv
+
+chicago_crimes_parquet/
+spark-warehouse/
+metastore_db/
+derby.log
